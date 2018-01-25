@@ -1,0 +1,24 @@
+body {
+  background-color: #5a6386;
+  color: #faea91;
+  font-family: 'Oswald', sans-serif;
+}
+
+h1 {font-family: 'Nosifer', cursive;
+font-size: 70px;
+text-align: center;
+}
+
+section {min-height: : 80vh}
+
+#section02 {
+  background-image:  url(image/surf.jpg);
+}
+
+
+
+
+.odd {
+  background-color: #faea91;
+  color: #5a6386;
+}
